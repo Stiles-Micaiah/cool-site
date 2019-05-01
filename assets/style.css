@@ -1,4 +1,31 @@
-section {
+#top {
   background-color: rgb(49, 46, 196);
-  background-size: 20mm 20mm;
+  height: 120px;
+}
+
+p {
+ padding-left: 30px;
+ padding-right: 30px;
+}
+#shit{
+  height: 150px;
+  background-color: rgb(49, 46, 196);
+}
+#double-shit {
+  height: 30px;
+  background-color: rgba(12, 91, 160, 0.349);
+}
+hr {
+  color: rgba(240, 248, 255, 0);
+  background-color: rgba(240, 248, 255, 0);
+  border-color: rgba(240, 248, 255, 0);
+}
+#bullshit {
+direction: rtl;
+}
+#tripple-shit {
+  padding: 150px;
+}
+main {
+  column-count: 1;
 }
