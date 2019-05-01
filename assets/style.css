@@ -3,9 +3,9 @@
   height: 120px;
 }
 
-p {
- padding-left: 30px;
- padding-right: 30px;
+.p-shit {
+padding-left: 300px;
+padding-right: 300px;
 }
 #shit{
   height: 150px;
@@ -28,4 +28,7 @@ direction: rtl;
 }
 main {
   column-count: 1;
+}
+#idek {
+  padding-left: 300px;
 }
